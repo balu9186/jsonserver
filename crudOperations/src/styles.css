@@ -6,5 +6,20 @@ table,th,td{
 }
 
 a{
-    font-size:30px;
+    color:blue;
+    font-size:20px;
+}
+
+a:hover{
+    cursor: pointer;
+    color: blue;
+}
+
+form,label,input{
+    font-size:20px;
+    padding:1px;
+}
+
+input{
+    margin-top: 10px;
 }

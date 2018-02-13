@@ -6,44 +6,19 @@
       "color": "red"
     },
     {
-      "id": 2,
       "name": "p_two",
-      "color": "green"
-    },
-    {
-      "id": 3,
-      "name": "p_three",
-      "color": "yellow"
+      "color": "blue",
+      "id": 2
     },
     {
       "name": "p_four",
-      "color": "white",
+      "color": "black",
       "id": 4
     },
     {
-      "name": "p_five",
-      "color": "purple",
-      "id": 5
-    },
-    {
-      "name": "mouse",
-      "color": "black",
+      "name": "p_six",
+      "color": "safron",
       "id": 6
-    },
-    {
-      "name": "p_seven",
-      "color": "brown",
-      "id": 7
-    },
-    {
-      "name": "p_eight",
-      "color": "blue",
-      "id": 8
-    },
-    {
-      "name": "p_nine",
-      "color": "nine color",
-      "id": 9
     }
   ]
 }
